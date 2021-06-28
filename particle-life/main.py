@@ -2,7 +2,6 @@
 # Python 3.9
 
 import pygame
-from pygame.locals import K_SPACE
 import numpy as np
 import random
 import math
